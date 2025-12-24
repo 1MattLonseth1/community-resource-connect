@@ -3,14 +3,13 @@ import requests
 import GoogleSearch
 from bs4 import BeautifulSoup
 
-
-def find():
-
-    resources = ['LGBTQ Resources NJ', 'Food Banks NJ', 
+resources = ['LGBTQ Resources NJ', 'Food Banks NJ', 
                 'Single Parent Resources NJ', 'Homeless Resources NJ', 
                 'Immigrant Resources NJ', 'Mental Health Resources NJ', 
                 'Veteran Resources NJ', 'Disability Resources NJ'
                 ]
+
+def find():
     
     allFound = {} #all resources found and put into dictionary for later parsing
 
