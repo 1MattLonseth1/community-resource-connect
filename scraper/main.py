@@ -1,13 +1,22 @@
 import json
 
-data = [
+Data = [
     {
         "name": "Example Service",
-        "location": "Sample County",
         "url": "https://example.org",
-        "source": "manual"
+        "email": "example@gmail.com",
+        "phone": "110-011-0001"
     }
 ]
 
+
+
 with open("services.json", "w") as f:
     json.dump(data, f, indent=2)
+
+
+
+with open("services.json", "r") as f:
+    newData = json.load(f)
+
+print(newData)

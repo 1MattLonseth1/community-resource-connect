@@ -1,4 +1,9 @@
 
+Uses BeautifulSoup, Google Custom Search API, and Programmable Search Engine to find and store information about a multitude of different resources efficiently
+
+
+
+The following are notes on BeautifulSoup
 
 from bs4 import BeautifulSoup #import beautifulsoup to use
 
