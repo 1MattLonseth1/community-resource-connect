@@ -5,7 +5,19 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-     
+# Data = [
+#     {
+#         "name": "Example Service",
+#         "url": "https://example.org",
+#         "email": "example@gmail.com",
+#         "phone": "110-011-0001",
+#         "description": ai_description,
+#         "location": ai_location,
+#         "zip_code": ai_zip,
+#         "target_group": ai_target_group
+#     }
+# ]
+
 def extract_contact_info(soup):
     EMAIL = re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
     PHONE = re.compile(r"(?:\+1\s*)?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}")
@@ -45,14 +57,12 @@ for resource in resources:
             "name": title,
             "url": link,
             "email": email,
-            "phone": phone
+            "phone": phone,
+            "description": None,
+            "location": None,
+            "zip_code": None,
+            "target_group": None
         })
 
 with open("services.json", "w") as f:
     json.dump(tempData, f, indent=2)
-
-   
-
-
-
-

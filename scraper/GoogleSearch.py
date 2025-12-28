@@ -2,8 +2,8 @@ import requests
 import os
 from dotenv import load_dotenv
 load_dotenv()
-API_KEY = os.getenv('GOOGLE_API_KEY') # type: ignore #need to add back
-SE_ID = os.getenv('GOOGLE_SEARCH_ENGINE_ID') # type: ignore #need to add back
+API_KEY = os.getenv('GOOGLE_API_KEY')
+SE_ID = os.getenv('GOOGLE_SEARCH_ENGINE_ID')
 
 url = 'https://www.googleapis.com/customsearch/v1'
 
