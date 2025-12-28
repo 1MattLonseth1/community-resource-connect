@@ -5,6 +5,23 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+     
+def extract_contact_info(soup):
+    EMAIL = re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
+    PHONE = re.compile(r"(?:\+1\s*)?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}")
+
+    emails = set()
+    phones = set()
+
+    for text in soup.stripped_strings:
+        emails.update(EMAIL.findall(text))
+        phones.update(PHONE.findall(text))
+
+    email = next(iter(emails), None)
+    phone = next(iter(phones), None)
+
+    return email, phone
+
 resources = ['LGBTQ Resources NJ', 'Food Banks NJ', 
                 'Single Parent Resources NJ', 'Homeless Resources NJ', 
                 'Immigrant Resources NJ', 'Mental Health Resources NJ', 
@@ -18,16 +35,12 @@ for resource in resources:
     i=0
     tempData[resource] = []
     for title, link in found[resource].items():
-        website = requests.get(link)
+        website = requests.get(link, timeout=10)
 
         soup = BeautifulSoup(website.text, "html.parser")
 
-        emails = soup.find_all(string=re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"))
-        email = emails[0].strip() if emails else None
+        email, phone = extract_contact_info(soup)
 
-        phones = soup.find_all(string=re.compile(r"\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}"))
-        phone = phones[0].strip() if phones else None
-        
         tempData[resource].append({
             "name": title,
             "url": link,
@@ -38,8 +51,7 @@ for resource in resources:
 with open("services.json", "w") as f:
     json.dump(tempData, f, indent=2)
 
-        
-
+   
 
 
 

@@ -17,7 +17,7 @@ def find():
         allFound[resource] = {}
         links = GoogleSearch.search(resource)
         for link in links:
-            response = requests.get(link)
+            response = requests.get(link, timeout=10)
             
             if response.status_code != 200:
                 continue
