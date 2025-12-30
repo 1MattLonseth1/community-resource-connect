@@ -58,10 +58,6 @@ for resource in resources:
             "url": link,
             "email": email,
             "phone": phone,
-            "description": None,
-            "location": None,
-            "zip_code": None,
-            "target_group": None
         })
 
 with open("services.json", "w") as f:

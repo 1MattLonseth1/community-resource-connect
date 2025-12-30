@@ -4,7 +4,11 @@
       "name": "LGBTQI+",
       "url": "https://www.nj.gov/njyrs/lgbtq/",
       "email": null,
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "No Title | https://www.co.burlington.nj.us/DocumentCenter/View/13520/LBGTQ-Resource-List-PDF",
@@ -16,81 +20,123 @@
       "name": "DCF | June 12, 2023 - 14 Free Resources for LGBTQIA+ Youth in New Jersey",
       "url": "https://www.nj.gov/dcf/news/press/2023/approved/230612_lgbtqia_resources.html",
       "email": null,
-      "phone": "855-463-6323"
+      "phone": "888-222-2228",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "New Jersey LGBTQ+ Resources \u2014 Affirming Pathways Psychotherapy",
       "url": "https://www.affirmingpathways.com/new-jersey-lgbtq-resources",
       "email": null,
-      "phone": "740-205-8999"
+      "phone": "(740) 306-4267",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "LGBTQIA+ Resource Fair | Ocean County Library",
       "url": "https://theoceancountylibrary.org/lgbtqia-resource-fair",
       "email": null,
-      "phone": "732-349-6200"
+      "phone": "732-349-6200",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "The Trevor Project - Suicide Prevention for LGBTQ+ Young People",
       "url": "https://www.thetrevorproject.org/",
       "email": null,
-      "phone": null
-    },
-    {
-      "name": "Home | Garden State Equality",
-      "url": "https://www.gardenstateequality.org/",
-      "email": null,
-      "phone": "(973) 509-5428"
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "LGBTQ Resource Center - Newark Public Library",
       "url": "https://www.npl.org/lgbtq-resource-center/",
       "email": "reference@npl.org",
-      "phone": "(973) 733-7812"
+      "phone": "(973) 733-7812",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "LGBTQIA+ Resource Fair - Ocean County Library",
       "url": "https://theoceancountylibrary.libnet.info/event/11313547",
       "email": null,
-      "phone": "732-349-6200"
+      "phone": "732-349-6200",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     }
   ],
   "Food Banks NJ": [
     {
-      "name": "Community FoodBank of New Jersey - Providing Food, Help & Hope - CFBNJ",
+      "name": "Community FoodBank of New Jersey",
       "url": "https://cfbnj.org/",
       "email": null,
-      "phone": "(973) 245-9579"
+      "phone": "(908) 418-8716",
+      "description": "The Community FoodBank of New Jersey provides food assistance programs and services to help families in need. They offer job training programs, nutrition education, and opportunities for volunteering and advocacy. The organization is committed to addressing the root causes of hunger and empowering communities across New Jersey.",
+      "location": "Hillside and Egg Harbor Township, NJ",
+      "zip_code": "07205",
+      "target_group": "Families in need, individuals facing food insecurity"
     },
     {
-      "name": "Food Bank Home - The Food Bank of South Jersey",
+      "name": "Food Bank of South Jersey",
       "url": "https://foodbanksj.org/",
       "email": "info@foodbanksj.org",
-      "phone": "856-662-4884"
+      "phone": "856-662-4884",
+      "description": "The Food Bank of South Jersey exists to provide an immediate solution to the urgent problem of hunger by providing food to people in need, teaching them to eat nutritiously, and helping them to find sustainable ways to improve their lives. In 2024, the need for food assistance continued to grow, reaching historic highs. With more families facing rising costs, we provided a record amount of food and services to ensure our neighbors had the support they needed.",
+      "location": "1501 John Tipton Blvd., Pennsauken, NJ",
+      "zip_code": "08110",
+      "target_group": "Individuals and families in need of food assistance"
     },
     {
       "name": "Get Food This Week",
       "url": "https://www.nj.gov/basicneeds/food/get-food-this-week.shtml",
-      "email": "faphelp@jfedsnj.org",
-      "phone": "973-538-8049"
+      "email": "toniski158@gmail.com",
+      "phone": "908-689-2547",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
-      "name": "Community Food Bank of New Jersey | Feeding America",
+      "name": "Community Food Bank of New Jersey",
       "url": "https://www.feedingamerica.org/find-your-local-foodbank/community-foodbank-of-new-jersey",
       "email": null,
-      "phone": "800.771.2303"
+      "phone": "800-771-2303",
+      "description": "Feeding America is a 501 (c)(3) non-profit recognized by the IRS. They focus on charitable food assistance and addressing issues related to hunger and health. The organization provides various ways to give, including monthly donations and fundraising.",
+      "location": "161 N. Clark Street, Suite 700, Chicago, IL",
+      "zip_code": "60601",
+      "target_group": "Children, Seniors, African Americans, Latinos, Native Americans, Rural Communities"
     },
     {
-      "name": "Home - Food Bank",
+      "name": "Food Bank of Somerset County Inc.",
       "url": "https://www.somersetfoodbank.org/",
       "email": null,
-      "phone": "(732) 560-1813"
+      "phone": "(732) 560-1813",
+      "description": "The mission of The Food Bank Network is to distribute food and provide other basic human needs to those less fortunate in our community. They aim to help feed and provision people in need until they become self-sufficient. The organization operates through a warehouse-pantry in Bridgewater and satellite food pantries. They assist Somerset County residents requesting help, either directly or through referrals.",
+      "location": "7E Easy Street, Middlebrook Crossroads Industrial Park, Bound Brook, NJ 08805",
+      "zip_code": "08805",
+      "target_group": "Individuals living below the poverty line in Somerset County"
     },
     {
-      "name": "Interfaith Food Pantry Network - Serving Morris County",
+      "name": "Interfaith Food Pantry Network",
       "url": "https://www.mcifp.org/",
       "email": null,
-      "phone": "973-538-8049"
+      "phone": "973-538-8049",
+      "description": "The Interfaith Food Pantry Network has improved the health and well-being of Morris County residents in need by providing access to food, education, and other resources for over 25 years. They are committed to ending hunger and supporting self-sufficiency. The organization also offers volunteer opportunities and ways to support through donations.",
+      "location": "2 Executive Drive",
+      "zip_code": "07950",
+      "target_group": "Residents of Morris County in need"
     }
   ],
   "Single Parent Resources NJ": [
@@ -98,37 +144,61 @@
       "name": "NJ Parent Link|Affordable & Temporary Housing",
       "url": "https://www.nj.gov/njparentlink/services/housing/",
       "email": null,
-      "phone": null
-    },
-    {
-      "name": "Help for single moms in New Jersey: 40 assistance programs",
-      "url": "https://www.wealthysinglemommy.com/help-for-single-moms-new-jersey/",
-      "email": null,
-      "phone": "866-763-6481"
-    },
-    {
-      "name": "Division of Family Development | Home",
-      "url": "https://www.nj.gov/humanservices/dfd/",
-      "email": null,
-      "phone": null
-    },
-    {
-      "name": "New Jersey: Financial Assistance Resources for Families | Childcare.gov",
-      "url": "https://childcare.gov/state-resources/new-jersey/financial-assistance-resources-for-families",
-      "email": null,
-      "phone": "800-510-3102"
-    },
-    {
-      "name": "Help for Single Mothers in NEW JERSEY",
-      "url": "https://singlemotherguide.com/state/new-jersey",
-      "email": null,
-      "phone": "(609) 292-4080"
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "NJHelps",
       "url": "https://www.njhelps.gov/",
       "email": null,
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "Division of Family Development | Home",
+      "url": "https://www.nj.gov/humanservices/dfd/",
+      "email": null,
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "New Jersey: Financial Assistance Resources for Families | Childcare.gov",
+      "url": "https://childcare.gov/state-resources/new-jersey/financial-assistance-resources-for-families",
+      "email": null,
+      "phone": "800-510-3102",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "Help for single moms in New Jersey: 40 assistance programs",
+      "url": "https://www.wealthysinglemommy.com/help-for-single-moms-new-jersey/",
+      "email": null,
+      "phone": "703-549-1390",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "Help for Single Mothers in NEW JERSEY",
+      "url": "https://singlemotherguide.com/state/new-jersey",
+      "email": null,
+      "phone": "(866) 446-5942",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Keansburg Happenings | Everything is so expensive now",
@@ -140,7 +210,11 @@
       "name": "Reddit - The heart of the internet",
       "url": "https://www.reddit.com/r/singlemoms/comments/1jtl80y/any_mamas_know_of_housing_assistance_in_nj/",
       "email": null,
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     }
   ],
   "Homeless Resources NJ": [
@@ -148,43 +222,71 @@
       "name": "New Jersey Department of Community Affairs |",
       "url": "https://www.nj.gov/dca/dhcr/offices/dhcrohp.shtml",
       "email": "OHP@dca.nj.gov",
-      "phone": "973-279-7100"
+      "phone": "(732) 279-6157",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "State Homeless Hotline | NJ 2-1-1 Partnership",
       "url": "https://nj211.org/initiative/state-homeless-hotline",
       "email": null,
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Housing and Homelessness Resources",
       "url": "https://www.lsnjlaw.org/pages/non-legal-resources/housing-homelessness-resources-aspx",
       "email": null,
-      "phone": "888-576-5529"
+      "phone": "888-576-5529",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Housing - Get Help: New Jersey Social Services - Research Guides at New Jersey State Library",
       "url": "https://libguides.njstatelib.org/get_help/housing",
       "email": null,
-      "phone": "(609) 278-2652"
+      "phone": "(609) 278-2640",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Emergency Housing & Homelessness Assistance | Princeton, NJ",
       "url": "https://www.princetonnj.gov/384/Emergency-Housing-Homeless-Assistance",
       "email": null,
-      "phone": "609) 924-4141"
+      "phone": "609 924 8018",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Homeless Services \u2013\u00a0Morris County, NJ",
       "url": "https://www.morriscountynj.gov/Departments/Temporary-Assistance/Homeless-Services",
       "email": null,
-      "phone": "973-829-8264"
+      "phone": "973-829-8264",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
-      "name": "HomeFront NJ | Break the Cycle of Poverty",
+      "name": "HomeFront",
       "url": "https://www.homefrontnj.org/",
       "email": "homefront@homefrontnj.org",
-      "phone": "609-989-9417"
+      "phone": "(609) 989-9417",
+      "description": "HomeFront\u2019s mission is to end homelessness in Central New Jersey by harnessing the caring, resources, and expertise of the community. They provide shelter, food, and transformative assistance to help families become self-sufficient. The organization addresses immediate needs such as food assistance, clothing, and childcare while promoting physical and mental well-being. They aim to empower individuals with educational and employment opportunities.",
+      "location": "1880 Princeton Avenue, Lawrenceville, NJ",
+      "zip_code": "08648",
+      "target_group": "Families experiencing homelessness and poverty"
     }
   ],
   "Immigrant Resources NJ": [
@@ -192,61 +294,101 @@
       "name": "New Jersey Alliance for Immigrant Justice",
       "url": "https://www.njaij.org/",
       "email": null,
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Immigrants' Rights Resources \u2014 NJCIC",
       "url": "https://www.njcic.org/immigrants-rights-resources",
       "email": "info@njcic.org",
-      "phone": "(201) 305-9217"
+      "phone": "(201) 305-9217",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Immigration Resources",
       "url": "https://www.nj.gov/njyrs/legal/immigration/",
       "email": null,
-      "phone": "(856) 225-6568"
+      "phone": "(856) 225-6568",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Immigrant Legal Resource Center | ILRC |",
       "url": "https://www.ilrc.org/",
       "email": null,
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "New Jersey Organizations  - National Immigration Legal Services Directory - Nonprofit Resource Center",
       "url": "https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=NJ",
-      "email": "elcentronj@gmail.com",
-      "phone": "856 314 8435"
+      "email": "info@cctrenton.org",
+      "phone": "(732) 748-1111",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Home | USCIS",
       "url": "https://www.uscis.gov/",
       "email": null,
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
-      "name": "Legal & Immigration Resources | Princeton, NJ",
+      "name": "Central Jersey Legal Services",
       "url": "https://www.princetonnj.gov/670/Legal-Immigration-Resources",
-      "email": "energy-assistance@njmecha.org",
-      "phone": "(201) 305-9217"
+      "email": "Trenton@chlp.org",
+      "phone": "609-695-6249",
+      "description": "Central Jersey Legal Services is a nonprofit law firm that offers free legal help in civil (non-criminal) cases for low-income residents of Mercer, Middlesex, and Union Counties. They provide information, advice, and representation to individuals who have a legal problem but cannot afford an attorney.",
+      "location": "198 West State Street, Trenton, NJ",
+      "zip_code": "08608",
+      "target_group": "Low-income residents"
     },
     {
       "name": "New Jersey Alliance for Immigrant Justice - ACLU of New Jersey",
       "url": "http://www.aclu-nj.org/new-jersey-alliance-immigrant-justice/",
       "email": null,
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "New Jersey Organizations  - Volunteer Guide - Pro Bono Resource Center",
       "url": "https://www.immigrationadvocates.org/probono/volunteer/search?state=NJ",
-      "email": "elcentronj@gmail.com",
-      "phone": "908-368-1196"
+      "email": "info@maketheroadnj.org",
+      "phone": "(732) 363-5322",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Know Your Rights \u2013 Resources for Immigrants in Montclair & New Jersey Township of Montclair, NJ",
       "url": "https://www.montclairnjusa.org/News-articles/News/Know-Your-Rights-%E2%80%93-Resources-for-Immigrants-in-Montclair-and-New-Jersey",
       "email": "info@montclairnjusa.org",
-      "phone": "973-744-1400"
+      "phone": "973-744-1400",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     }
   ],
   "Mental Health Resources NJ": [
@@ -254,43 +396,73 @@
       "name": "No Title | https://www.nj.gov/humanservices/dmhas/home/hotlines/MH_Dir_COMPLETE.pdf",
       "url": "https://www.nj.gov/humanservices/dmhas/home/hotlines/MH_Dir_COMPLETE.pdf",
       "email": "dV@..VN",
-      "phone": "8393939393"
+      "phone": "9393939393"
     },
     {
       "name": "Department of Human Services | Mental Health Resources",
       "url": "https://nj.gov/humanservices/dmhas/resources/mental/",
       "email": null,
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "No Title | https://www.njcourts.gov/public/get-help/mental-health-resources",
       "url": "https://www.njcourts.gov/public/get-help/mental-health-resources",
       "email": null,
-      "phone": "988296-3430"
+      "phone": "279288-6433"
     },
     {
-      "name": "The Mental Health Association of NJ",
+      "name": "Mental Health Association of NJ",
       "url": "https://www.mhanj.org/",
       "email": null,
-      "phone": "(855) 652-3737"
+      "phone": "(800) 367-8850",
+      "description": "The Mental Health Association of NJ provides emotional support, information, and referrals. They offer programs and services to support individuals and families, educate and train, collaborate, advocate, and support equity. They also have a newsletter for updates on mental health news and resources.",
+      "location": "673 Morris Ave. Suite 100",
+      "zip_code": "07081",
+      "target_group": "Individuals and Families"
     },
     {
       "name": "Behavioral Health Resources for Families",
       "url": "https://www.performcarenj.org/families/resources/behavioral",
       "email": null,
-      "phone": "800-701-0710"
+      "phone": "877-652-7624",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Health Resources and Services Administration | HRSA",
-      "url": "https://www.hrsa.gov/?utm_source=substack",
+      "url": "https://www.hrsa.gov/",
       "email": null,
-      "phone": "833-852-6262"
+      "phone": "833-852-6262",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "National Alliance on Mental Illness (NAMI) | Mental Health Support, Education & Advocacy",
       "url": "https://www.nami.org/",
       "email": null,
-      "phone": "888-999-6264"
+      "phone": "888-999-6264",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "Directory of Morris County Mental Health Services \u2013\u00a0Morris County, NJ",
+      "url": "https://www.morriscountynj.gov/Departments/Office-of-Emergency-Management/Mental-Health",
+      "email": null,
+      "phone": "(973) 831-5078",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     }
   ],
   "Veteran Resources NJ": [
@@ -298,31 +470,51 @@
       "name": "Veterans Affairs",
       "url": "https://www.nj.gov/military/veterans/",
       "email": "vbb@dmava.nj.gov",
-      "phone": "609-530-4600"
+      "phone": "888-865-8387",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
-      "name": "Veteran's Services | Burlington County, NJ - Official Website",
+      "name": "Burlington County Department of Military and Veteran\u2019s Services",
       "url": "https://www.co.burlington.nj.us/547/Veterans-Services",
       "email": null,
-      "phone": "609-265-5008"
+      "phone": "609-265-3184",
+      "description": "The Burlington County Department of Military and Veteran\u2019s Services is dedicated to serving the military and veteran community. They work closely with veteran organizations and military bases to provide current information from the U.S. Department of Veteran\u2019s Affairs and the New Jersey Department of Military and Veteran\u2019s Affairs. The office is staffed with dedicated personnel to meet the needs of Burlington County veterans.",
+      "location": "795 Woodlane Road, Westampton, NJ",
+      "zip_code": "08060",
+      "target_group": "active duty military personnel and veterans"
     },
     {
       "name": "New Jersey Department of Military and Veterans Affairs",
       "url": "https://www.nj.gov/military/",
       "email": null,
-      "phone": "609-530-4600"
+      "phone": "609-530-4600",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "Benefits/Resources",
+      "url": "https://www.nj.gov/military/veterans/benefits-resources/",
+      "email": "salger@voadv.org",
+      "phone": "856-881-5550",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "VA.gov Home | Veterans Affairs",
       "url": "https://www.va.gov//",
       "email": null,
-      "phone": null
-    },
-    {
-      "name": "Benefits/Resources",
-      "url": "https://www.nj.gov/military/veterans/benefits-resources/",
-      "email": "mrussell@voadv.org",
-      "phone": "609-530-4600"
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     }
   ],
   "Disability Resources NJ": [
@@ -330,31 +522,51 @@
       "name": "Division of Disability Services | Home",
       "url": "https://www.nj.gov/humanservices/dds/",
       "email": null,
-      "phone": "888-285-3036"
+      "phone": "888-285-3036",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "New Jersey Disability Resources and Advocacy Organizations - Olmstead Rights",
       "url": "https://www.olmsteadrights.org/self-helptools/advocacy-resources/item.6596-New_Jersey_Disability_Resources_and_Advocacy_Organizations",
       "email": null,
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "Hunterdon County Office on Disability Services",
+      "url": "https://www.co.hunterdon.nj.us/486/Disability-Services",
+      "email": "daniel.amiano@co.hunterdon.nj.us",
+      "phone": "908-788-1361",
+      "description": "The Hunterdon County Office on Disability Services is a specialized section of the Division of Senior, Disabilities and Veterans Services. It provides information and referrals to community members with disabilities and offers a wide range of resources to assist them in remaining autonomous and empowered. The office also helps individuals with disabilities apply for Social Security Disability benefits and NJ Temporary Disability.",
+      "location": "71 Main Street, PO Box 2900, Flemington, New Jersey",
+      "zip_code": "08822",
+      "target_group": "Individuals with disabilities, seniors, and their caregivers"
     },
     {
       "name": "Division of Disability Services | Resources and Publications",
       "url": "https://www.nj.gov/humanservices/dds/resources/",
       "email": "dds.publications@dhs.nj.gov",
-      "phone": null
+      "phone": null,
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
-      "name": "Disability Information Hub",
-      "url": "https://www.nj.gov/disabilities/",
+      "name": "Statewide Disability Services | NJ 2-1-1 Partnership",
+      "url": "https://nj211.org/statewide-disability-services",
       "email": null,
-      "phone": "888-285-3036"
-    },
-    {
-      "name": "Disability Services | Hunterdon County, NJ",
-      "url": "https://www.co.hunterdon.nj.us/486/Disability-Services",
-      "email": "kaitlyn.paulmeno@co.hunterdon.nj.us",
-      "phone": "877-222-3737"
+      "phone": "866-871-7867",
+      "description": null,
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     }
   ]
 }

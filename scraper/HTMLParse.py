@@ -11,7 +11,7 @@ resources = ['LGBTQ Resources NJ', 'Food Banks NJ',
 
 def find():
     
-    allFound = {} #all resources found and put into dictionary for later parsing
+    allFound = {} #all resources found and put title and link into dictionary for later parsing
 
     for resource in resources:
         allFound[resource] = {}
