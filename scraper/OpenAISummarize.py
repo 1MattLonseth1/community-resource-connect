@@ -1,10 +1,10 @@
-from openai import OpenAI
 import json
 import os
 import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 load_dotenv()
+from openai import OpenAI
 
 client = OpenAI(
     api_key = os.getenv('OPENAI_API_KEY')
@@ -75,8 +75,7 @@ def ai_summarize_service(page_text):
     
     if parsed:
         for key in ai_data:
-            if key in parsed and parsed[key] is not None:
-                ai_data[key] = parsed[key]
+            ai_data[key] = parsed[key]
                 
     return ai_data
 

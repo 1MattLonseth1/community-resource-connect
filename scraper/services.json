@@ -109,11 +109,11 @@
       "target_group": null
     },
     {
-      "name": "Community Food Bank of New Jersey",
+      "name": "Feeding America",
       "url": "https://www.feedingamerica.org/find-your-local-foodbank/community-foodbank-of-new-jersey",
       "email": null,
       "phone": "800-771-2303",
-      "description": "Feeding America is a 501 (c)(3) non-profit recognized by the IRS. They focus on charitable food assistance and addressing issues related to hunger and health. The organization provides various ways to give, including monthly donations and fundraising.",
+      "description": "Feeding America is a 501 (c)(3) non-profit organization recognized by the IRS. It focuses on charitable food assistance and addressing issues related to hunger and food insecurity. The organization provides various programs and resources to support communities in need. They also engage in research and policy advocacy related to hunger and nutrition.",
       "location": "161 N. Clark Street, Suite 700, Chicago, IL",
       "zip_code": "60601",
       "target_group": "Children, Seniors, African Americans, Latinos, Native Americans, Rural Communities"
@@ -124,7 +124,7 @@
       "email": null,
       "phone": "(732) 560-1813",
       "description": "The mission of The Food Bank Network is to distribute food and provide other basic human needs to those less fortunate in our community. They aim to help feed and provision people in need until they become self-sufficient. The organization operates through a warehouse-pantry in Bridgewater and satellite food pantries. They assist Somerset County residents requesting help, either directly or through referrals.",
-      "location": "7E Easy Street, Middlebrook Crossroads Industrial Park, Bound Brook, NJ 08805",
+      "location": "7E Easy Street, Middlebrook Crossroads Industrial Park, Bound Brook, NJ",
       "zip_code": "08805",
       "target_group": "Individuals living below the poverty line in Somerset County"
     },
@@ -134,9 +134,9 @@
       "email": null,
       "phone": "973-538-8049",
       "description": "The Interfaith Food Pantry Network has improved the health and well-being of Morris County residents in need by providing access to food, education, and other resources for over 25 years. They are committed to ending hunger and supporting self-sufficiency. The organization also offers volunteer opportunities and ways to support through donations.",
-      "location": "2 Executive Drive",
+      "location": "2 Executive Drive, Morris Plains, NJ",
       "zip_code": "07950",
-      "target_group": "Residents of Morris County in need"
+      "target_group": "Residents of Morris County facing food insecurity"
     }
   ],
   "Single Parent Resources NJ": [
@@ -396,7 +396,11 @@
       "name": "No Title | https://www.nj.gov/humanservices/dmhas/home/hotlines/MH_Dir_COMPLETE.pdf",
       "url": "https://www.nj.gov/humanservices/dmhas/home/hotlines/MH_Dir_COMPLETE.pdf",
       "email": "dV@..VN",
-      "phone": "9393939393"
+      "phone": "9393939393",
+      "description": "The provided text does not contain any relevant information about a public service. It appears to be corrupted or encoded data. Therefore, no specific details can be extracted.",
+      "location": null,
+      "zip_code": null,
+      "target_group": null
     },
     {
       "name": "Department of Human Services | Mental Health Resources",
@@ -419,10 +423,10 @@
       "url": "https://www.mhanj.org/",
       "email": null,
       "phone": "(800) 367-8850",
-      "description": "The Mental Health Association of NJ provides emotional support, information, and referrals. They offer programs and services to support individuals and families, educate and train, collaborate, advocate, and support equity. They also have a newsletter for updates on mental health news and resources.",
+      "description": "The Mental Health Association of NJ provides emotional support, information, and referrals. They offer programs and services to support individuals and families, educate and train, collaborate, advocate, and support equity. They also have a newsletter for updates on news, facts, and articles related to mental health.",
       "location": "673 Morris Ave. Suite 100",
       "zip_code": "07081",
-      "target_group": "Individuals and Families"
+      "target_group": "Individuals and families"
     },
     {
       "name": "Behavioral Health Resources for Families",
@@ -481,7 +485,7 @@
       "url": "https://www.co.burlington.nj.us/547/Veterans-Services",
       "email": null,
       "phone": "609-265-3184",
-      "description": "The Burlington County Department of Military and Veteran\u2019s Services is dedicated to serving the military and veteran community. They work closely with veteran organizations and military bases to provide current information from the U.S. Department of Veteran\u2019s Affairs and the New Jersey Department of Military and Veteran\u2019s Affairs. The office is staffed with dedicated personnel to meet the needs of Burlington County veterans.",
+      "description": "The Burlington County Department of Military and Veteran\u2019s Services is dedicated to serving the military and veteran community. They work closely with veteran organizations and military bases to provide current information from the U.S. Department of Veteran\u2019s Affairs and the New Jersey Department of Military and Veteran\u2019s Affairs. The office offers various services and has a dedicated staff to meet the needs of Burlington County veterans.",
       "location": "795 Woodlane Road, Westampton, NJ",
       "zip_code": "08060",
       "target_group": "active duty military personnel and veterans"
@@ -546,7 +550,7 @@
       "description": "The Hunterdon County Office on Disability Services is a specialized section of the Division of Senior, Disabilities and Veterans Services. It provides information and referrals to community members with disabilities and offers a wide range of resources to assist them in remaining autonomous and empowered. The office also helps individuals with disabilities apply for Social Security Disability benefits and NJ Temporary Disability.",
       "location": "71 Main Street, PO Box 2900, Flemington, New Jersey",
       "zip_code": "08822",
-      "target_group": "Individuals with disabilities, seniors, and their caregivers"
+      "target_group": "Individuals with disabilities, their caregivers, and the general public"
     },
     {
       "name": "Division of Disability Services | Resources and Publications",
