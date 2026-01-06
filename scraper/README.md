@@ -1,49 +1,28 @@
 
-Uses BeautifulSoup, Google Custom Search API, and Programmable Search Engine to find and store information about a multitude of different resources efficiently
+# Scraper
 
+Uses BeautifulSoup, Google Custom Search API, Reddit PRAW, and Programmable Search Engine to find and store information about a multitude of different resources efficiently.
 
+Uses OpenAI wrapper to summarize each source concisely and scrape extra information.
 
-The following are notes on BeautifulSoup
+Data is currently stored in a JSON file.
 
-from bs4 import BeautifulSoup #import beautifulsoup to use
+## Format.py
 
-with open("index.html", "r") as f:  ## opens html file
-    doc = BeautifulSoup(f, "html.parser") # allows you to read into a hmtl file, can just print doc
+Parses HTML of website to find phone number and email. Stores all data into services.json
 
-#when looking for some time of information: can look at the specific html tags like title or <p>
-# add .string to make only the text show not the tag
-# can al
-tag = doc.title #first thing tagged title, .find_all will find everything with that tag, indexing will allow you find a specific tag
-print(tag.string) 
-tag.string = "hello" # replaces first title with hello
+## GoogleSearch.py
 
-#html from website
+Does a google search for resources based on a broad category to be parsed in HTMLParse.py
 
-import requests
-url = "website you want to access"
-result = requests.get(url)
-result.text # <<<< read from this
+## HTMLParse.py
 
-prices = doc.find_all(string="$") #to find specific text, need to acess the parent of the text to see where that text comes from
-# everything in BS is in a tree like structure, by nested div tags
-parent = prices[0].parent
+Parses HTML of website to find title and url for later parsing in Format.py
 
-#.find() = first result, .find_all() all results with that tag/text, #tag.attrs prints all the attributes
-# can put a list of tags into find_all to give you all the things will those tags, can narrow down speicfic tags as "tag, string"
-# to modify attributes of a tag, edit and add like a dictionary
+## OpenAISummarize.py
 
-import re #allows you to scan/skip the parent = prices[0].parent / gives you the text surounding text you search for
-prices = doc.find_all(string=re.compile("\$.*")) #then do .strip to format correctly, can add limit to limit number of results
+Uses  OpenAI API to read cleaned up HTML file in order to summarize the service, find location, zip code, target group, and then output into services.json
 
-#just write into a new file to save chnages, .write(str(doc))
+## RedditSearch.py
 
-#to access siblings / things at the same 'level' in the tree. 
-tbody = doc.tbody #-> the tag I am looking at that contains all the rows
-trs = tbody.contents #-> all the things that has the parent tbody, can then to trs[0].next_sibling(s)/.previous_sibling(s) or just iterate through them
-# .name = name of tag
-#finding prices of crypto
-for tr in trs: #each row in all rows t
-    for td in tr.contents[2:4]: #contents of each row
-        print(td)
-
-#Google custom search api
+Work in progress. Could not get the initial set up to work
