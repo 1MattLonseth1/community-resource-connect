@@ -7,6 +7,8 @@ Uses OpenAI wrapper to summarize each source concisely and scrape extra informat
 
 Data is currently stored in a JSON file.
 
+Will compact functions into one or two files in the future.
+
 ## Format.py
 
 Parses HTML of website to find phone number and email. Stores all data into services.json

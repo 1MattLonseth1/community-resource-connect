@@ -16,12 +16,21 @@ def find():
     for resource in resources:
         allFound[resource] = {}
         links = GoogleSearch.search(resource)
+        headers = {
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "text/html",
+            "Accept-Language": "en-US,en;q=0.9"
+        }
+        
         for link in links:
-            response = requests.get(link, timeout=10)
-            
-            if response.status_code != 200:
-                continue
-            
+            try:
+                response = requests.get(link, headers=headers, timeout=10)
+                if response.status_code == 200:
+                    break;
+                else:
+                    print(f"Failed: {link} (status {response.status_code})")
+            except requests.exceptions.RequestException as e:
+                print(f"Error with {link}: {e}")
             
             soup = BeautifulSoup(response.text, "html.parser")
             

@@ -10,10 +10,10 @@ Many support resources exist, but they are fragmented, outdated, or difficult to
 Create a scalable, searchable database of verified services that can be easily filtered and found.
 
 ## Tech Stack (Planned)
-- Python (scraping, AI processing)
-- PostgreSQL
+- Python (scraping, AI processing) 
+- PostgreSQL for Data (Currently JSON)
 - TypeScript / React (frontend)
 - FastAPI or Node.js (backend)
 
 ## Project Status
-Early development — planning and data ingestion phase.
+Early development — data ingestion has a basic implementation. Starting backend planning.
