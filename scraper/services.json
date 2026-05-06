@@ -1,24 +1,716 @@
 {
-  "LGBTQ Resources NJ": [],
-  "Food Banks NJ": [
+  "LGBTQ Resources NJ": [
     {
-      "name": "Attention Required! | Cloudflare",
-      "url": "https://foodbanksj.org/",
-      "email": "info@foodbanksj.org",
-      "phone": "856-662-4489"
+      "name": "The State of New Jersey",
+      "url": "https://www.nj.gov/njyrs/lgbtq/",
+      "email": null,
+      "phone": null,
+      "description": "The State of New Jersey offers a variety of services and resources for its residents, including support for LGBTQIA+ individuals. It provides scholarships, educational tools, and mental health resources through various organizations. Additionally, there are programs aimed at career exploration, legal rights, and health services. The state emphasizes inclusivity and support for youth, particularly those in transition.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "LGBTQIA+ individuals and youth"
+    },
+    {
+      "name": "Camden AHEC",
+      "url": "https://www.camdencounty.com/service/awareness-causes/lgbtq-resources/",
+      "email": null,
+      "phone": null,
+      "description": "Camden Area Health Education Center (Camden AHEC) is committed to improving the health of the medically under-served, ethnic and culturally diverse populations. They offer community health initiatives, service learning for medical and public health students, and chronic disease self-management workshops. Camden AHEC also established the City\u2019s first farmers markets targeting WIC clients and senior citizens.",
+      "location": "514 Cooper Street, Camden, NJ",
+      "zip_code": "08102",
+      "target_group": "medically under-served, ethnic and culturally diverse populations"
+    },
+    {
+      "name": "The Pride Center of New Jersey, Inc.",
+      "url": "https://www.affirmingpathways.com/new-jersey-lgbtq-resources",
+      "email": null,
+      "phone": "(866-488-7386",
+      "description": "An all-volunteer 501(c)(3) nonprofit organization dedicated to the health and well-being of all individuals in the LGBTQ community. The Center is a safe space to gather together and offers a wide range of programming to meet the needs of those who seek support and social opportunities. Everyone in the LGBTQ community and their allies are welcome at The Center.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "LGBTQ community and their allies"
+    },
+    {
+      "name": "Ocean County Library",
+      "url": "https://theoceancountylibrary.org/lgbtqia-resource-fair",
+      "email": null,
+      "phone": "732-349-6200",
+      "description": "Ocean County Library will be 'Going Green' by no longer mailing notices. The current Stafford Branch will close on May 1st in anticipation of the new Stafford branch opening in the summer. The LGBTQIA+ Resource Fair will be held at the Toms River Branch, providing resources and services for the LGBTQIA+ community. The fair aims to connect local organizations with LGBTQIA+ patrons and allies.",
+      "location": "Toms River Branch, Ocean County Library",
+      "zip_code": null,
+      "target_group": "LGBTQIA+ community"
+    },
+    {
+      "name": "The Newark Public Library",
+      "url": "https://www.npl.org/lgbtq-resource-center/",
+      "email": "reference@npl.org",
+      "phone": "973-733-5412",
+      "description": "The Newark Public Library (NPL) is committed to serving the city\u2019s LGBTQ community, providing a designated LGBTQ space within the Main Library. The library aims to be an open, safe, inclusive, and welcoming space for individuals. The LGBTQ Librarian, Candice M Delgardio, focuses on maintaining and expanding the collection, programming, and community outreach. NPL seeks to offer a variety of services and programs to the diverse LGBTQ communities.",
+      "location": "5 Washington Street, Newark",
+      "zip_code": null,
+      "target_group": "LGBTQ community"
+    },
+    {
+      "name": "The Pride Center of NJ",
+      "url": "http://www.pridecenter.org/",
+      "email": null,
+      "phone": null,
+      "description": "The Pride Center of NJ has been supporting the community since 1992. They offer many peer-based support groups and dedicated youth programming for individuals 18 years and under. The center hosts various events throughout the year to help people connect and build community. They also provide resources for professional support and services.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "LGBTQ+ community"
+    },
+    {
+      "name": "Ocean County Library",
+      "url": "https://theoceancountylibrary.libnet.info/event/11313547",
+      "email": null,
+      "phone": "732-349-6200",
+      "description": "The Ocean County Library serves as a portal of knowledge and strengthens civic involvement. It supports lifelong learning, sustainable communities, and economic development. The library offers various services, including access to digital materials, reading programs, and community events. It also hosts special events like the LGBTQIA+ Resource Fair.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "All Ages"
+    },
+    {
+      "name": "West Orange Public Service",
+      "url": "https://westorange.org/2076/LGBTQIA-Community-Resources",
+      "email": null,
+      "phone": "973-325-4100",
+      "description": "West Orange offers various public services including managing notification subscriptions, volunteer applications, and information on cannabis-related licenses. The community is engaged in environmental initiatives, including recycling and tree planting programs. There are also resources for older adults and various commissions that address local issues. The township promotes sustainable practices and community involvement through events and programs.",
+      "location": "West Orange",
+      "zip_code": null,
+      "target_group": "Residents of West Orange"
     }
   ],
-  "Single Parent Resources NJ": [],
+  "Food Banks NJ": [
+    {
+      "name": "Community FoodBank of New Jersey (CFBNJ)",
+      "url": "https://cfbnj.org/",
+      "email": null,
+      "phone": "(908) 418-8716",
+      "description": "CFBNJ provides food assistance programs, job training, and nutrition education to help families in need. They advocate for solutions to hunger and offer various volunteering opportunities. The organization also accepts donations and hosts events to support their mission. CFBNJ serves communities in New Jersey, particularly in Hillside and Egg Harbor Township.",
+      "location": "Hillside and Egg Harbor Township, New Jersey",
+      "zip_code": null,
+      "target_group": "Families in need, individuals facing food insecurity"
+    },
+    {
+      "name": "Food Bank of South Jersey",
+      "url": "https://foodbanksj.org/",
+      "email": "info@foodbanksj.org",
+      "phone": "856-662-4489",
+      "description": "The Food Bank of South Jersey exists to provide an immediate solution to the urgent problem of hunger by providing food to people in need, teaching them to eat nutritiously, and helping them to find sustainable ways to improve their lives. In 2025, the need for food assistance continued to grow, reaching historic highs. With more families facing rising costs, we provided a record amount of food and services to ensure our neighbors had the support they needed.",
+      "location": "1501 John Tipton Blvd., Pennsauken, NJ",
+      "zip_code": "08110",
+      "target_group": "Individuals and families in need of food assistance"
+    },
+    {
+      "name": "New Jersey Supplemental Nutrition Assistance Program (SNAP)",
+      "url": "https://www.nj.gov/basicneeds/food/get-food-this-week.shtml",
+      "email": "toniski158@gmail.com",
+      "phone": "856-424-1333",
+      "description": "New Jersey issued full November 2025 SNAP benefits to eligible households following a federal court ruling. Recipients are encouraged to check their Families First EBT cards to confirm balances and use benefits as needed. Food pantries and soup kitchens are available for those needing access to food quickly, with varying eligibility requirements. Community organizations may require documentation such as a photo ID or proof of residence.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "SNAP recipients and food-insecure households"
+    },
+    {
+      "name": "Community Foodbank of New Jersey",
+      "url": "https://www.feedingamerica.org/find-your-local-foodbank/community-foodbank-of-new-jersey",
+      "email": null,
+      "phone": "800.771.2303",
+      "description": "The Community Foodbank of New Jersey is part of the Feeding America Food Bank Network. It provides food assistance and various programs to combat hunger in the community. The organization focuses on helping children, seniors, and families in need. They also advocate for government programs that support food security.",
+      "location": "31 Evans Terminal, Hillside, NJ",
+      "zip_code": "07205",
+      "target_group": "Children, Seniors, Families"
+    },
+    {
+      "name": "Fulfill",
+      "url": "https://fulfillnj.org/",
+      "email": null,
+      "phone": null,
+      "description": "Fulfill is dedicated to fighting hunger through various programs and initiatives. They provide assistance with food stamps, healthcare, and offer volunteer opportunities. Donations help provide meals to those in need, and they also support community engagement through events and advocacy.",
+      "location": "1769 Hooper Ave, Toms River, NJ",
+      "zip_code": "08753",
+      "target_group": "Neighbors in need"
+    },
+    {
+      "name": "Food Bank Network of Somerset County",
+      "url": "https://www.somersetfoodbank.org/",
+      "email": null,
+      "phone": "(732) 560-1813",
+      "description": "The mission of The Food Bank Network is to distribute food and provide other basic human needs to those less fortunate in our community. They aim to help feed and provision people in need until they become self-sufficient. The organization operates through a warehouse-pantry in Bridgewater and satellite food pantries. They assist Somerset County residents who request help or are referred by public and private county agencies.",
+      "location": "7E Easy Street, Middlebrook Crossroads Industrial Park, Bound Brook, NJ",
+      "zip_code": "08805",
+      "target_group": "Individuals living below the poverty line in Somerset County"
+    },
+    {
+      "name": "Morris County Interfaith Food Pantry Network",
+      "url": "https://www.mcifp.org/",
+      "email": null,
+      "phone": "973-538-8049",
+      "description": "For over 25 years, the Interfaith Food Pantry Network has improved the health and well-being of Morris County residents in need by providing access to food, education and other resources. The organization is committed to ending hunger and supporting self-sufficiency. They offer various programs including food distribution and volunteer opportunities.",
+      "location": "2 Executive Drive",
+      "zip_code": "07950",
+      "target_group": "Residents of Morris County in need"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/cfbnj/",
+      "email": null,
+      "phone": null
+    },
+    {
+      "name": "Flemington Area Food Pantry",
+      "url": "https://flemingtonfoodpantry.org/",
+      "email": "info@flemingtonfoodpantry.org",
+      "phone": "(908) 788-5568",
+      "description": "The Flemington Area Food Pantry promotes the health and well-being of the Hunterdon County community by providing nutritious food and essentials. They focus on addressing hunger through a holistic approach, offering tailored programming and fostering resource connections. The pantry operates as a client choice pantry, allowing individuals to select their food items with dignity. They also provide various programs, including community meals, summer feeding programs, and birthday bags for children.",
+      "location": "154 Route 31 North, Flemington, NJ",
+      "zip_code": "08822",
+      "target_group": "Residents of Hunterdon County"
+    },
+    {
+      "name": "Randolph Township Parks, Recreation, and Community Services Department Food Pantry",
+      "url": "https://www.randolphnj.org/175/Randolph-Food-Pantry",
+      "email": null,
+      "phone": "973-989-7076",
+      "description": "The Randolph Township Parks, Recreation, and Community Services Department operates a food pantry for township families and individuals in need. The pantry accepts non-perishable food items, paper products, and financial donations. Residents can call for assistance and to schedule pickups or deliveries of requested items. Donations can be dropped off at the community center during office hours.",
+      "location": "30 Calais Road, Randolph, NJ",
+      "zip_code": "07869-3799",
+      "target_group": "Township families and individuals in need"
+    }
+  ],
+  "Single Parent Resources NJ": [
+    {
+      "name": "NJ Parent Link|Affordable & Temporary Housing",
+      "url": "https://www.nj.gov/njparentlink/services/housing/",
+      "email": null,
+      "phone": null,
+      "description": "This public service provides support and resources for families before, during, and after pregnancy, as well as for infants and children with special needs. It addresses various challenges such as behavioral and mental health issues, child care assistance, and support for parents with disabilities. The service also offers information on housing assistance, unemployment benefits, and resources for families affected by COVID-19. Additional support is available for military families, those experiencing family violence, and incarcerated parents.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "Families with children, parents, and caregivers"
+    },
+    {
+      "name": "Help for single moms in New Jersey",
+      "url": "https://www.wealthysinglemommy.com/help-for-single-moms-new-jersey/",
+      "email": "info@ccrnj.org",
+      "phone": "800-701-0710",
+      "description": "This program provides resources and assistance for single moms in New Jersey struggling to make ends meet. It includes cash assistance through the WFNJ program, which offers monthly payments based on family size and income. Additional support is available through the SAIF program for those who have reached the WFNJ assistance limit. Various housing and rental assistance programs are also accessible.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "single moms"
+    },
+    {
+      "name": "Division of Family Development",
+      "url": "https://www.nj.gov/humanservices/dfd/",
+      "email": null,
+      "phone": null,
+      "description": "The Division of Family Development (DFD) is the state agency that supervises four programs that support New Jersey families. These programs include Child Care Assistance, Child Support, NJ SNAP (food assistance), and WFNJ (cash assistance). The DFD aims to help lower-income families with child care costs, establish and enforce child support orders, provide food assistance, and offer temporary cash assistance. This institution is an equal opportunity provider.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "New Jersey families"
+    },
+    {
+      "name": "Additional Resources",
+      "url": "https://programsforparents.org/outside-links-and-resources/",
+      "email": null,
+      "phone": "1865000150"
+    },
+    {
+      "name": "New Jersey Department of Human Services",
+      "url": "https://www.njhelps.gov/",
+      "email": null,
+      "phone": null,
+      "description": "This site will help to see if you are eligible for food assistance (SNAP), cash assistance (WFNJ/TANF or WFNJ/GA), and health Insurance (NJ FamilyCare/Medicaid). It provides some extra help to pay for food, monthly cash, short-term housing support, child care, job search and readiness, and free or low-cost health coverage. Screening takes about 5-10 minutes, while applications take about 20-45 minutes to complete.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "low income individuals or families"
+    },
+    {
+      "name": "New Jersey Child Care Assistance Program (CCAP)",
+      "url": "https://www.childcarenj.gov/parents/ccap",
+      "email": null,
+      "phone": null,
+      "description": "The New Jersey Child Care Assistance Program (CCAP) helps income-eligible families who are working, going to school, or in job training with child care costs. The program is managed by the New Jersey Department of Human Services, Division of Family Development, and is locally handled by Child Care Resource and Referral (CCR&R) agencies. Families can apply through the secure application system, MyNJHelps, and must meet specific eligibility requirements. Assistance is also available for homeless families needing child care services.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "Income-eligible families, homeless families"
+    },
+    {
+      "name": "WorkFirst NJ",
+      "url": "https://singlemotherguide.com/state/new-jersey",
+      "email": null,
+      "phone": "(877) 395-8930",
+      "description": "WorkFirst NJ is the state\u2019s welfare program that provides temporary cash assistance and supportive services to low-income families with children under age 18. The program aims to help families achieve self-sufficiency through employment, job training, education, and other work-related activities. Cash assistance is generally limited to a lifetime maximum of 60 months, with exemptions for elderly or disabled adults and children under age 18.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "low-income families with children under age 18"
+    },
+    {
+      "name": "Catholic Charities of South Jersey",
+      "url": "https://catholiccharitiessouthjersey.org/homeless-single-mom-and-three-kids-get-help-from-catholic-charities/",
+      "email": null,
+      "phone": "856-342-4180",
+      "description": "Catholic Charities of South Jersey provides support to vulnerable families, particularly single mothers and their children, facing homelessness and poverty. They offer services such as the Rapid Re-Housing program, which helps families secure affordable housing and achieve self-sufficiency through intensive case management. The organization has been serving the community since 1936, focusing on improving the lives of those in need regardless of their background.",
+      "location": "1845 Haddon Ave. Camden, NJ 08103",
+      "zip_code": "08103",
+      "target_group": "Families in need, particularly single mothers and their children"
+    },
+    {
+      "name": "Family Connects NJ",
+      "url": "https://www.familyconnectsnj.org/",
+      "email": null,
+      "phone": null
+    }
+  ],
   "Homeless Resources NJ": [
     {
       "name": "Access Denied",
-      "url": "https://www.middlesexcountynj.gov/government/departments/department-of-community-services/office-of-human-services/division-of-housing-community-development-and-social-services/procedures-guidelines-copy",
+      "url": "https://www.mercercounty.org/departments/human-services/office-on-homeless-services",
       "email": null,
-      "phone": "117.1778097"
+      "phone": "117.1778100",
+      "description": "This reference appears to be an error code related to a specific issue. It is associated with a URL that may provide further details about the error. The context of the error is not specified in the provided text.",
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "New Jersey Department of Community Affairs",
+      "url": "https://www.nj.gov/dca/dhcr/offices/dhcrohp.shtml",
+      "email": "OHP@dca.nj.gov",
+      "phone": "(973) 267-0709",
+      "description": "The New Jersey Department of Community Affairs coordinates efforts to prevent homelessness among state and local agencies and private organizations. It provides services to persons who are homeless or at risk for homelessness, including financial assistance and case management. The department also administers various programs aimed at addressing and supporting the needs of these individuals. It works to advance innovative practices and data-driven decision-making in homelessness prevention.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "Persons who are homeless or at risk for homelessness"
+    },
+    {
+      "name": "NJ 211",
+      "url": "https://nj211.org/initiative/state-homeless-hotline",
+      "email": null,
+      "phone": null,
+      "description": "NJ 211 serves as the state homeless hotline and seeks to assist those experiencing homelessness by connecting them with community resources. During business hours, individuals are directed to contact their local County Social Service Agency for assistance. After hours, individuals can reach NJ 211 by dialing 2-1-1 for emergency placement and referrals. NJ 211 also provides support during Code Blue declarations for after-hours placements.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "Individuals experiencing homelessness"
+    },
+    {
+      "name": "Hearts and Hands for the Homeless",
+      "url": "https://www.camdencounty.com/service/community-development/homelessness-services/",
+      "email": null,
+      "phone": null,
+      "description": "This service provides guidance and resources for individuals who are homeless or at risk of homelessness. It assists in gathering necessary documents and navigating social service agencies. The program emphasizes the importance of communication and documentation in the process of seeking help. Various assistance programs are available, including emergency assistance and general assistance.",
+      "location": "101 Woodcrest Road Suite 161 Cherry Hill, NJ",
+      "zip_code": "08003",
+      "target_group": "Individuals and families experiencing homelessness or at risk of homelessness"
+    },
+    {
+      "name": "Homeless Services \u2013\u00a0Morris County, NJ",
+      "url": "https://www.morriscountynj.gov/Departments/Temporary-Assistance/Homeless-Services",
+      "email": null,
+      "phone": "973-829-8264",
+      "description": "The service provides assistance for individuals experiencing a housing or homeless crisis. It includes rental assistance, security deposit assistance, and other services such as food, transportation, and medical needs. Social Work staff are available for assessments and guidance to appropriate housing resources. Contact can be made during business hours or afterhours for urgent needs.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "Individuals experiencing housing or homeless crisis"
+    },
+    {
+      "name": "New Jersey Social Services",
+      "url": "https://libguides.njstatelib.org/get_help/housing",
+      "email": null,
+      "phone": "(609) 406-7181",
+      "description": "New Jersey Social Services provides housing resources for individuals facing homelessness, difficulty paying rent, and related issues. It offers various programs and assistance for home buyers, renters, and those with special needs. The services include housing counseling, utility assistance, and financial counseling for those in foreclosure. The New Jersey Housing Resource Center serves as a central location for affordable housing listings.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "Individuals experiencing housing challenges"
+    },
+    {
+      "name": "Office of Homeless and At Risk Services",
+      "url": "https://www.cumberlandcountynj.gov/homeless",
+      "email": null,
+      "phone": null,
+      "description": "The Office of Homeless and At Risk Services provides information and assistance to individuals in need. They offer a Comprehensive Emergency Assistance System (CEAS) and an Emergency Food & Shelter Program. Additionally, they manage the Cumberland Family Shelter screening process.",
+      "location": "70 W. Broad Street",
+      "zip_code": "08302",
+      "target_group": "Homeless and at-risk individuals"
+    },
+    {
+      "name": "Legal Services of New Jersey (LSNJ)",
+      "url": "https://www.lsnjlaw.org/pages/non-legal-resources/housing-homelessness-resources-aspx",
+      "email": null,
+      "phone": "888-576-5529",
+      "description": "LSNJ is a 501(c)(3) nonprofit organization that offers free civil legal assistance to low-income individuals in New Jersey. The organization provides legal information on various topics, including consumer issues, housing, immigration, and family law. Users can find resources by clicking on legal topics or using a search box. LSNJ aims to help those in need navigate legal challenges.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "Low-income individuals in New Jersey"
+    },
+    {
+      "name": "HomeFront",
+      "url": "https://www.homefrontnj.org/",
+      "email": "homefront@homefrontnj.org",
+      "phone": "(609) 989-9417",
+      "description": "HomeFront\u2019s mission is to end homelessness in Central New Jersey by harnessing the caring, resources, and expertise of the community. They provide shelter, food, and transformative assistance to help families become self-sufficient. The organization focuses on tackling poverty and homelessness, empowering individuals, promoting well-being, and addressing immediate needs. HomeFront aims to create a stronger community by ensuring all families thrive.",
+      "location": "Lawrenceville, NJ",
+      "zip_code": "08648",
+      "target_group": "Families experiencing homelessness and poverty"
     }
   ],
-  "Immigrant Resources NJ": [],
-  "Mental Health Resources NJ": [],
-  "Veteran Resources NJ": [],
-  "Disability Resources NJ": []
+  "Immigrant Resources NJ": [
+    {
+      "name": "New Jersey Alliance for Immigrant Justice",
+      "url": "http://www.aclu-nj.org/new-jersey-alliance-immigrant-justice/",
+      "email": null,
+      "phone": null,
+      "description": "The New Jersey Alliance for Immigrant Justice (NJAIJ) is a statewide coalition that fights for policies that empower and protect immigrants. It uses the power and strength of member organizations to hold decision-makers accountable and build grassroots strength in communities. The coalition aims to ensure immigrants have rights, equitable access to resources, and dignity. It recognizes the urgency to fight at the intersection of racial, social, and economic justice.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "immigrants"
+    },
+    {
+      "name": "New Jersey Alliance for Immigrant Justice",
+      "url": "https://www.njaij.org/",
+      "email": null,
+      "phone": null,
+      "description": "NJAIJ is New Jersey's largest immigration coalition, fighting to empower and protect immigrants. It includes labor, faith, policy, community-based, and grassroots organizations across the state. NJAIJ provides Know Your Rights resources, directories, and trainings to support immigrant communities. The organization is actively involved in advocacy and movement building.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "immigrants"
+    },
+    {
+      "name": "NJCIC Immigrant Rights Resources",
+      "url": "https://www.njcic.org/immigrants-rights-resources",
+      "email": "info@njcic.org",
+      "phone": "(201) 305-9217",
+      "description": "The NJCIC\u2019s Immigrant Rights Resources Page provides a collection of resources aimed at supporting legal service providers, nonprofit staff, educators, and individuals working with the immigrant community. It includes materials to educate about immigrants' rights and proactive measures for protection. The information is not legal advice, and individuals are encouraged to consult an attorney for specific legal matters.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "Immigrant community, legal service providers, nonprofit staff, educators"
+    },
+    {
+      "name": "National Immigration Legal Services Directory",
+      "url": "https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=NJ",
+      "email": "immigration@cwsglobal.org",
+      "phone": "856-342-4161",
+      "description": "The National Immigration Legal Services Directory is a resource for individuals seeking legal assistance with immigration matters. It provides information about various legal services available across the country. The directory is maintained by Pro Bono Net, an organization dedicated to increasing access to justice. All rights are reserved from 1999 to 2026.",
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "State of New Jersey",
+      "url": "https://www.nj.gov/njyrs/legal/immigration/",
+      "email": null,
+      "phone": "(856) 225-6568",
+      "description": "The State of New Jersey offers a variety of services and resources for its residents, including education, health, employment, and legal assistance. It provides support for youth, families, and individuals navigating complex systems such as immigration. The state emphasizes the importance of understanding legal rights and available resources. Various programs are designed to assist with life skills, financial literacy, and housing.",
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "Immigrant Legal Resource Center",
+      "url": "https://www.ilrc.org/",
+      "email": null,
+      "phone": null,
+      "description": "The Immigrant Legal Resource Center provides resources and support for immigrants and advocates. They focus on areas such as asylum, citizenship, and immigrant youth. The organization also offers training, publications, and technical assistance. Their mission includes policy advocacy and legal support for immigrant communities.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "Immigrants and advocates"
+    },
+    {
+      "name": "Montclair Township Animal Shelter",
+      "url": "https://www.montclairnjusa.org/News-articles/News/Know-Your-Rights-%E2%80%93-Resources-for-Immigrants-in-Montclair-and-New-Jersey",
+      "email": "info@montclairnjusa.org",
+      "phone": "973-744-1400",
+      "description": "Montclair Township Animal Shelter will be closed to the public Friday, May 8th for staff development.",
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "Bloomfield Township",
+      "url": "https://www.bloomfieldtwpnj.com/1690/Immigrant-Rights-Resources",
+      "email": null,
+      "phone": "(973) 353-5292",
+      "description": "Bloomfield Township provides resources and services related to immigration, including a FAQ page addressing resident concerns about federal immigration activity. The Township has established guidelines for the use of municipal resources in relation to civil immigration enforcement. It also offers access to legal assistance and social services for immigrant communities. Residents can find information about their rights and available services through various local and state resources.",
+      "location": "Bloomfield, NJ",
+      "zip_code": null,
+      "target_group": "Residents, immigrant communities"
+    },
+    {
+      "name": "Literacy Volunteers of Camden County",
+      "url": "https://www.camdencountylibrary.org/immigrant-refugee-and-citizenship-resources",
+      "email": null,
+      "phone": "856-342-4161",
+      "description": "Literacy Volunteers of Camden County offers various services including assistance with literacy and education. They provide resources for immigrants, refugees, and citizenship information. The organization aims to support individuals in improving their literacy skills and navigating immigration processes.",
+      "location": "Camden, NJ",
+      "zip_code": "08103",
+      "target_group": "Immigrants and refugees"
+    },
+    {
+      "name": "Borough Hall",
+      "url": "https://www.neptunecitynj.com/home/news/know-your-rights-resources-undocumented-immigrants-neptune-city-and-new-jersey",
+      "email": null,
+      "phone": null,
+      "description": "Borough Hall is the administrative center for Neptune City, New Jersey. It provides various public services and resources for residents, including information on rights for undocumented immigrants. The facility also houses departments such as the Municipal Clerk, Finance Department, and Public Works. Borough Hall operates Monday through Friday from 8:30 am to 4:30 pm.",
+      "location": "106 West Sylvania Avenue, Neptune City, New Jersey",
+      "zip_code": "07753",
+      "target_group": "Residents, students, families, and business owners"
+    }
+  ],
+  "Mental Health Resources NJ": [
+    {
+      "name": "Division of Mental Health and Addiction Services",
+      "url": "https://www.nj.gov/disabilities/employment-independent-living/mental-health/",
+      "email": "helpline@nami.org",
+      "phone": "800-382-6717",
+      "description": "The Division of Mental Health and Addiction Services (DMHAS) oversees New Jersey\u2019s adult system of community-based behavioral health services. It offers a wide range of treatment services, including substance use disorder treatment and peer support programs. DMHAS provides a searchable directory to help individuals find substance use treatment programs and offers assistance in locating local treatment resources.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "Adults with mental health and substance use disorders"
+    },
+    {
+      "name": "New Jersey Mental Health Resources | NJ Courts",
+      "url": "https://www.njcourts.gov/public/get-help/mental-health-resources",
+      "email": null,
+      "phone": "6336959617",
+      "description": "This public service provides resources and guidance for individuals representing themselves in court. It includes information on various legal processes such as appeals, child support, custody, divorce, and domestic violence. Additionally, it offers access to court records, forms, and legal reference materials. The service aims to assist users in navigating the legal system effectively.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "Self-represented individuals"
+    },
+    {
+      "name": "NAMI New Jersey",
+      "url": "https://naminj.org/",
+      "email": null,
+      "phone": null,
+      "description": "NAMI New Jersey is dedicated to providing support and education for individuals affected by mental illness. They offer various programs, resources, and advocacy initiatives aimed at improving mental health awareness and support. The organization serves individuals with mental illness, their families, and caregivers, as well as veterans and frontline professionals. NAMI NJ also engages in community outreach and provides educational resources to promote mental health.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "Individuals with Mental Illness, Family Members and Caregivers, Veterans & Active Duty, Frontline Professionals"
+    },
+    {
+      "name": "Burlington County Human Services Facility",
+      "url": "https://www.co.burlington.nj.us/410/Behavioral-Health",
+      "email": "efrancis@co.burlington.nj.us",
+      "phone": "609-265-5000",
+      "description": "The Burlington County Human Services Facility provides various services including alcohol and drug abuse treatment planning, mental health support, and resources for families. It also oversees programs like the Intoxicated Drivers Resource Center and the Children's Inter-Agency Coordinating Committee. The facility aims to address community needs through various initiatives and resources. It is located in Mount Holly, NJ.",
+      "location": "795 Woodlane Road, P.O. Box 6000, Mount Holly, NJ",
+      "zip_code": "08060",
+      "target_group": "County residents"
+    },
+    {
+      "name": "RWJBarnabas Health Behavioral Health Services",
+      "url": "https://www.rwjbh.org/treatment-care/mental-health-and-behavioral-health/",
+      "email": null,
+      "phone": "(908) 685-2200",
+      "description": "RWJBarnabas Health's Behavioral Health services, in partnership with Rutgers University Behavioral Health Care, offer comprehensive mental health services for all ages. They provide evidence-based programs that help patients address challenges and maintain good health. Services include acute care inpatient programs and outpatient services tailored to individual needs. The Access Center is available 24/7 for support and referrals.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "children, adolescents, adults, seniors"
+    },
+    {
+      "name": "Camden County Mental Health Services",
+      "url": "https://www.camdencounty.com/service/mental-health-and-addiction/mental-health-resources-2/",
+      "email": null,
+      "phone": null,
+      "description": "Camden County offers a variety of mental health and addiction services, including crisis support, outpatient treatment, and resources for youth and families. Services are available through various organizations, including Oaks Integrated Care and South Jersey Behavioral Health Resources. The county provides a 24/7 crisis hotline and support for those experiencing mental health or substance use crises.",
+      "location": "Camden County, New Jersey",
+      "zip_code": null,
+      "target_group": "Individuals experiencing mental health or substance use crises"
+    },
+    {
+      "name": "Access Denied",
+      "url": "https://www.middlesexcountynj.gov/find-programs-and-resources/behavioral-health-tools-and-resources",
+      "email": null,
+      "phone": "117.1778100",
+      "description": "This reference appears to be an error code related to a specific issue. It is associated with a URL that may provide further details about the error. The code may be used for troubleshooting or support purposes.",
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "Cape May County Offices",
+      "url": "https://capemaycountynj.gov/829/Mental-Health-Resources",
+      "email": null,
+      "phone": "609-522-6489",
+      "description": "Create a Website Account to manage notification subscriptions, save form progress, and more. The office is located in the Administration Building. It provides information on public boat ramps and the County Court House.",
+      "location": "4 Moore Road, Cape May Court House, NJ",
+      "zip_code": "08210",
+      "target_group": null
+    }
+  ],
+  "Veteran Resources NJ": [
+    {
+      "name": "NJ Department of Veterans Affairs",
+      "url": "https://www.nj.gov/military/veterans/",
+      "email": null,
+      "phone": "609-530-4600",
+      "description": "The NJ Department of Military & Veterans Affairs has transformed into two separate departments: the NJ Department of Military Affairs and the NJ Department of Veterans Affairs. This department provides various services for veterans, including service offices, housing assistance, and memorial services. It also offers programs for women veterans and civil service preference for veterans. The department's official site can be found at veterans.nj.gov.",
+      "location": null,
+      "zip_code": null,
+      "target_group": "Veterans"
+    },
+    {
+      "name": "Camden County Veterans Advisory Committee",
+      "url": "https://www.camdencounty.com/service/veterans-affairs/veterans-resources/",
+      "email": null,
+      "phone": null,
+      "description": "The Camden County Veterans Advisory Committee provides information and resources for veterans in Camden County. It offers assistance with eligibility requirements, benefits, and burial information at the Camden County Veterans Cemetery. The committee also connects veterans with various services, including health care and legal assistance.",
+      "location": "Camden County, New Jersey",
+      "zip_code": null,
+      "target_group": "Veterans"
+    },
+    {
+      "name": "Access Denied",
+      "url": "https://www.mercercounty.org/departments/veteran-services",
+      "email": null,
+      "phone": "117.1778100",
+      "description": "This reference appears to be related to an error message from a content delivery network. It includes a URL that may provide more information about the specific error. The reference number could be used for troubleshooting purposes. Further details would likely be found at the provided link.",
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "Wayne Township",
+      "url": "https://waynetownship.com/health-home-page/veteran-resources/",
+      "email": null,
+      "phone": null,
+      "description": "Wayne Township offers various public services including administration, public safety, and community resources. It provides departments such as Health & Welfare, Parks & Recreation, and Public Works. Residents can access services like permits, inspections, and online resources. The township also supports businesses through economic development initiatives.",
+      "location": "Wayne, Passaic County, New Jersey, United States of America",
+      "zip_code": null,
+      "target_group": "Residents and Businesses"
+    },
+    {
+      "name": "Veterans Justice Outreach Initiative",
+      "url": "https://njreentry.org/veterans_justice_outreach_initiative/",
+      "email": "smcgreevey@njreentry.org",
+      "phone": "609-441-3422",
+      "description": "The Veterans Justice Outreach Initiative of NJRC provides services to veterans being released from state prison, county jail, or addiction treatment centers. It assists court-involved veterans in securing medical and behavioral treatment for health ailments, mental health problems, and addiction. The program aims to decrease veterans' participation in the court system and offers supportive services through affiliated organizations. Services include linkage to treatment, legal assistance, and training for career employment.",
+      "location": "Carteret, Middlesex County",
+      "zip_code": null,
+      "target_group": "Veterans"
+    },
+    {
+      "name": "Veteran Resource Program",
+      "url": "https://ehcamerica.org/veteran-resource-programs/",
+      "email": null,
+      "phone": null,
+      "description": "Education & Health Centers of America, Inc.\u2019s (EHCA\u2019s) Veteran Resource Program (VRP) provides direct support services to veterans in need throughout the state of New Jersey. Services include emergency housing, hotel vouchers, rental assistance, and hygiene care packages. The program aims to identify and address the unmet needs of veterans through a direct service support model, focusing on sustained housing. Enrollment is conducted in-person or via teleconference to ensure access for all eligible veterans.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "Veterans"
+    },
+    {
+      "name": "Westampton Township Veterans Resources",
+      "url": "https://www.westamptonnj.gov/about/veterans-resources",
+      "email": null,
+      "phone": null,
+      "description": "Westampton is home to several hundred veterans, prior service, and active personnel. The township provides various resources for veterans, including property tax deductions and exemptions. It also offers contact information for local veteran services and support programs. The township employs over 18 individuals who are either active reservists or prior service.",
+      "location": "Westampton, NJ",
+      "zip_code": "08060",
+      "target_group": "Veterans and their families"
+    },
+    {
+      "name": "Morris County Veterans Services",
+      "url": "https://www.morriscountynj.gov/Departments/Veterans-Services",
+      "email": "MCVets@co.morris.nj.us",
+      "phone": "(973) 285-6866",
+      "description": "Morris County provides assistance to veterans and their families regarding VA benefits and entitlements. Services include information and referrals for education, insurance, healthcare, and job assistance. They also help with filing claims for VA services and provide free mental health services to veterans and their families. Additional support includes transportation assistance and community-based service referrals.",
+      "location": "Morris County",
+      "zip_code": null,
+      "target_group": "Veterans and their families"
+    }
+  ],
+  "Disability Resources NJ": [
+    {
+      "name": "Division of Disability Services",
+      "url": "https://www.nj.gov/humanservices/dds/",
+      "email": null,
+      "phone": "888-285-3036",
+      "description": "The Division of Disability Services represents the interests of New Jersey residents with disabilities in all areas of life, focusing on enhancing access, equity, and inclusion. It provides information and referral services, personal assistance programs, and various initiatives aimed at improving the quality of life for individuals with disabilities. The division also offers resources for individuals and their supporters, promoting community-wide change through innovative local initiatives.",
+      "location": "State of New Jersey",
+      "zip_code": null,
+      "target_group": "Residents with disabilities"
+    },
+    {
+      "name": "New Jersey Disability Resources and Advocacy Organizations",
+      "url": "https://www.olmsteadrights.org/self-helptools/advocacy-resources/item.6596-New_Jersey_Disability_Resources_and_Advocacy_Organizations",
+      "email": null,
+      "phone": null,
+      "description": "This organization provides links to government agencies and disability rights organizations in New Jersey. They assist individuals with disabilities in accessing community resources, legal assistance, and advocacy. The focus includes various disabilities such as physical, intellectual, developmental disabilities, and mental illness. They also provide information on the Olmstead plan and support for self-advocacy.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "people with disabilities, their families, and caregivers"
+    },
+    {
+      "name": "Morris County Public Services",
+      "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Disability-Services",
+      "email": null,
+      "phone": "973-625-1940",
+      "description": "Morris County offers a variety of public services including voting and elections, public health information, and support for residents with disabilities. The county provides resources for registering to vote, accessing health services, and obtaining assistance for disabled individuals. Additionally, there are programs for community engagement and emergency preparedness. The county also partners with local organizations to enhance service delivery.",
+      "location": "Morris County, NJ",
+      "zip_code": "07963-0900",
+      "target_group": "Residents of Morris County"
+    },
+    {
+      "name": "Division of Disability Services",
+      "url": "https://www.nj.gov/humanservices/dds/resources/",
+      "email": "dds.publications@dhs.nj.gov",
+      "phone": null,
+      "description": "The Division of Disability Services (DDS) is part of the New Jersey Department of Human Services. It offers a range of programs and services for individuals with disabilities, including information and referral services, personal assistance services, and health and wellness initiatives. DDS also publishes resources such as the New Jersey Guide to Accessible Parking and the New Jersey Resources guide. These publications are available in both English and Spanish.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "Individuals with disabilities"
+    },
+    {
+      "name": "Access Denied",
+      "url": "https://www.warrencountynj.gov/government/human-services/division-of-aging-and-disability-services",
+      "email": null,
+      "phone": "117.1778100",
+      "description": "This reference appears to be an error code related to a specific issue. It is associated with a URL that may provide more information about the error. The code format suggests it is part of a tracking or logging system. Further details would require accessing the provided link.",
+      "location": null,
+      "zip_code": null,
+      "target_group": null
+    },
+    {
+      "name": "New Jersey Disability Services",
+      "url": "https://www.nj.gov/disabilities/",
+      "email": null,
+      "phone": "888-285-3036",
+      "description": "New Jersey is committed to making the state a safe, accessible, and affordable place for all, including individuals with disabilities. The website provides resources for individuals with disabilities, caregivers, and families, offering information on food, income, and employment assistance programs. It also connects users with various services such as in-home supports, vocational rehabilitation, and personal care assistance. For help finding disability services, trained experts are available to assist.",
+      "location": "New Jersey",
+      "zip_code": null,
+      "target_group": "Individuals with disabilities, caregivers, families"
+    },
+    {
+      "name": "Rutgers Disability Services",
+      "url": "https://ods.rutgers.edu/home",
+      "email": "accessibility@rutgers.edu",
+      "phone": "732.445.3388",
+      "description": "The Office of Disability Services provides reasonable academic accommodations for students with disabilities. Our team strives to provide the necessary tools, resources, and support for individuals with disabilities to become responsible decision-makers and self-advocates. We are dedicated to providing information and resources necessary for students to pursue their academic, personal, and professional goals while at Rutgers.",
+      "location": "Lucy Stone Hall, Suite A145, Livingston Campus, 54 Joyce Kilmer Avenue",
+      "zip_code": "08854-8045",
+      "target_group": "Students with disabilities"
+    },
+    {
+      "name": "Center for Accessibility and Disability Resources",
+      "url": "https://middlesexcollege.edu/student-life/disability-services/",
+      "email": "disabilityservices@middlesexcollege.edu",
+      "phone": "732.745.8866",
+      "description": "The Center for Accessibility and Disability Resources provides specialized counseling and auxiliary services to support students with disabilities. Services include classroom accommodations, adapted testing, notetaking support, and assistive technology. Students must self-identify and request services, and accommodations are based on supporting documentation. The center also offers an extensive Adapted Computer Lab with specialized equipment.",
+      "location": "Edison Campus",
+      "zip_code": null,
+      "target_group": "Students with disabilities"
+    },
+    {
+      "name": "Aging and Disability Resource Center (ADRC)",
+      "url": "https://www.co.burlington.nj.us/434/Aging",
+      "email": null,
+      "phone": "877-222-3737",
+      "description": "The Office on Aging provides information, assistance, and outreach services to seniors in various areas, including legal assistance, transportation, and home health services. It is part of the statewide Aging and Disability Resource Connection, offering 'one-stop shopping' access to services. A Directory of Services for Burlington County seniors is available through the Office on Aging.",
+      "location": "Burlington County",
+      "zip_code": "08060",
+      "target_group": "Seniors over the age of 60"
+    }
+  ]
 }
