@@ -1,0 +1,8 @@
+# python -m pip install -r Requirements.txt
+# pip install -r Requirements.txt
+# use second command if your environment already uses pip directly
+# Paste either into your terminal.
+requests
+python-dotenv
+beautifulsoup4
+openai
