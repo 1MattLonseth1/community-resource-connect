@@ -58,6 +58,9 @@ def format(resources):
     tempData = {}
 
     found = HTMLParse.find(resources)
+    print("Found the following resources:")
+    print(found)
+
     for resource in resources:
         i=0
         tempData[resource] = []

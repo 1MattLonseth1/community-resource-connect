@@ -7,7 +7,7 @@ resources = ['LGBTQ Resources', 'Food Assistance Resources', 'Single Parent Reso
              'Counseling Resources', 'Addiction Resources', 'Refugee Resources', 
              'Public Housing Resources', 'Job Training Resources','Probation, Parole, and Rehabilitation Resources'
             ]
-    
+print("Running")
 Format.format(resources)
     
     
